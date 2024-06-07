@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9eb9c14d-c5cb-4e2c-894d-3124545651a7" name="变更" comment="变更">
+      <change afterPath="$PROJECT_DIR$/code.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/000628.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/000767.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/000777.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/000788.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/002594.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/002855.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/300001.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/300114.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/301096.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/301205.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/603178.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/605499.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/000767.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/000777.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/000788.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/002594.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/300001.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/605499.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data2/000767.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data2/000777.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data2/000788.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data2/002594.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data2/300001.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data2/605499.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data3/000767.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data3/000777.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data3/000788.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data3/002594.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data3/300001.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data3/605499.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data4/000737.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data4/000767.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data4/000777.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data4/000788.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data4/002594.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data4/300001.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data4/600016.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data4/600036.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data4/601919.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data4/605499.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/000767.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/000777.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/000788.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/002594.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/300001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/605499.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/结果.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/结果2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/Visual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze.py" beforeDir="false" afterPath="$PROJECT_DIR$/analyze.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/000737.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/000737.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/600016.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/600016.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/600036.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/600036.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/601919.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/601919.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data1/000737.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data1/000737.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data1/600016.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data1/600016.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data1/600036.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data1/600036.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data1/601919.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data1/601919.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data2/000737.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data2/000737.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data2/600016.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data2/600016.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data2/600036.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data2/600036.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data2/601919.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data2/601919.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/000737.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data3/000737.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/600016.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data3/600016.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/600036.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data3/600036.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/601919.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data3/601919.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/draw.py" beforeDir="false" afterPath="$PROJECT_DIR$/draw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/000737bar_chart.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/000737bar_chart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/600016bar_chart.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/600016bar_chart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/600036bar_chart.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/600036bar_chart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/601919bar_chart.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/601919bar_chart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_analyze.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_analyze.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/data_topic_modeling.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/logs/events.out.tfevents.1716815923.LAPTOP-33IE9ABF.35020.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/logs/events.out.tfevents.1716816037.LAPTOP-33IE9ABF.30500.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model3.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/my_finetuned_model/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/my_finetuned_model/pytorch_model.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/results/runs/May27_21-21-05_LAPTOP-33IE9ABF/events.out.tfevents.1716816065.LAPTOP-33IE9ABF.34064.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/results/runs/May27_21-21-39_LAPTOP-33IE9ABF/events.out.tfevents.1716816099.LAPTOP-33IE9ABF.29044.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/results/runs/May27_22-46-05_LAPTOP-33IE9ABF/events.out.tfevents.1716821165.LAPTOP-33IE9ABF.43932.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/vectorizer.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/model/vectorizer.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/vectorizer2.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/model/vectorizer2.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/000737.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pic/000737.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/000737.png" beforeDir="false" afterPath="$PROJECT_DIR$/pic/000737.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/600016.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pic/600016.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/600036.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pic/600036.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/601919.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pic/601919.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/情绪分析.png" beforeDir="false" afterPath="$PROJECT_DIR$/pic/情绪分析.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentment.py" beforeDir="false" afterPath="$PROJECT_DIR$/sentment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tushare1.py" beforeDir="false" afterPath="$PROJECT_DIR$/tushare1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zusemodel.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;assignee&quot;: &quot;Hellowmyq&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;assignee&quot;: &quot;Hellowmyq&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Hellowmyq/homework-data_mining.git&quot;,
+    &quot;accountId&quot;: &quot;26b83685-c63a-4ee1-ae65-ee9f96178da5&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2gpAXQndLy7GZxREZQbewubfzL0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Visual.executor": "Run",
+    "Python.analyze.executor": "Run",
+    "Python.crawler.executor": "Run",
+    "Python.draw.executor": "Run",
+    "Python.main_analyze.executor": "Run",
+    "Python.model.executor": "Run",
+    "Python.model2.executor": "Run",
+    "Python.sentment.executor": "Run",
+    "Python.tushare1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/HuaweiMoveData/Users/h/Desktop/作业/大三下/人工智能综合实践/大作业/homework",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\HuaweiMoveData\Users\h\Desktop\作业\大三下\财经数据挖掘\大作业\homework - 副本" />
+      <recent name="D:\HuaweiMoveData\Users\h\Desktop\作业\大三下\财经数据挖掘\大作业\homework - 副本\model" />
+      <recent name="D:\HuaweiMoveData\Users\h\Desktop\作业\大三下\财经数据挖掘\大作业\homework\homework-data_mining" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\HuaweiMoveData\Users\h\Desktop\作业\大三下\财经数据挖掘\大作业\homework - 副本" />
+      <recent name="D:\HuaweiMoveData\Users\h\Desktop\作业\大三下\财经数据挖掘\大作业\homework - 副本\趋势" />
+      <recent name="D:\HuaweiMoveData\Users\h\Desktop\作业\大三下\财经数据挖掘\大作业\homework - 副本\data" />
+      <recent name="D:\HuaweiMoveData\Users\h\Desktop\作业\大三下\财经数据挖掘\大作业\homework - 副本\model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="homework-data_mining" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="homework-data_mining" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="homework-data_mining" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="homework-data_mining" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="homework-data_mining" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="homework-data_mining" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="9eb9c14d-c5cb-4e2c-894d-3124545651a7" name="变更" comment="" />
+      <created>1716384185094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716384185094</updated>
+    </task>
+    <task id="LOCAL-00001" summary="变更">
+      <option name="closed" value="true" />
+      <created>1717584088404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717584088404</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="变更" />
+    <option name="LAST_COMMIT_MESSAGE" value="变更" />
+  </component>
+</project>

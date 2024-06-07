@@ -1,0 +1,11 @@
+code,sign,truth,change
+000737,False,True,0.09
+600016,True,False,-0.03
+600036,False,True,0.01
+601919,True,True,0.27
+000767,False,False,-0.05
+002594,False,False,-2.29
+300001,False,False,-0.1
+605499,False,True,1.67
+000777,False,False,-0.41
+000788,False,False,-0.37

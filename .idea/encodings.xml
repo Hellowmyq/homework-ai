@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/analyze.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/draw.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/model/data_topic_modeling.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/model/emotion.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/model/label.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/model/model.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/model/model2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/model/model3.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/model/model4.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/model/model5.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/model/model6.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pre.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sentment1.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tushare1.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zusemodel.py" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
